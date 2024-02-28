@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/romirov/MovieTopics/issues"
   },
-  "homepage": "https://github.com/romirov/MovieTopics#readme"
+  "homepage": "https://github.com/romirov/MovieTopics#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
