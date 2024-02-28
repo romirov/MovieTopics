@@ -1,0 +1,19 @@
+{
+  "name": "movietopics",
+  "version": "1.0.0",
+  "description": "Cource work for Otus",
+  "main": "src/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romirov/MovieTopics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romirov/MovieTopics/issues"
+  },
+  "homepage": "https://github.com/romirov/MovieTopics#readme"
+}
